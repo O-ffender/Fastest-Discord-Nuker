@@ -1,0 +1,4 @@
+discord
+packaging
+requests
+colorama
