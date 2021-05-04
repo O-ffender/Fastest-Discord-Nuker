@@ -219,6 +219,7 @@ All commands are not case sensitive.
 
 ### `moveRole`
 
+
 * aliases: `mRole`, `mR`
 * description: Moves the given role in hierarchy(If you have the permissions) in the server you are connected to.
 * params: \[role#name or id. Spaces are allowed] \[position#position in hierarchy. The last space separated argument will be counted has the position]
